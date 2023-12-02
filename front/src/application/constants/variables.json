@@ -1,0 +1,17 @@
+{
+  "local": {
+    "baseUrl": "",
+    "apiUrl": "http://localhost:3030",
+    "authToken": ""
+  },
+  "dev": {
+    "baseUrl": "",
+    "apiUrl": "http://localhost:3030",
+    "authToken": ""
+  },
+  "prod": {
+    "baseUrl": "",
+    "apiUrl": "https://gorest.co.in/public/v2",
+    "authToken": ""
+  }
+}
